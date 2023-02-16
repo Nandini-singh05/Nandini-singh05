@@ -1,6 +1,6 @@
 
 ## Hi there, Nandini here 👋🏼
-[![Gmail Badge](https://img.shields.io/badge/-nandinisingh5may@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinisingh5may@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-nishasingh5m@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nishasingh5m@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Nandini%20Singh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-singh-bb7154159/ "Connect on LinkedIn")
 
 ---
