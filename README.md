@@ -1,10 +1,10 @@
 
 ## Hi there, Nandini here 👋🏼
-[![Gmail Badge](https://img.shields.io/badge/-nishasingh5m@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nishasingh5m@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-nandinisingh5may@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinisingh5may@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Nandini%20Singh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-singh-bb7154159/ "Connect on LinkedIn")
 
 ---
-I am a Sophomore at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Sophomore at Guru Gobind Singh Indraprastha University, New Delhi, pursuing a Bachelor of Technology in Artificial Intelligence & Data Science, who is passionate about Data :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 📭 Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.
 - 💬 Volunteer for the education of underrepresented and underpreviliged, because **Education is very powerful.**
