@@ -10,3 +10,19 @@ I am a Junior at Guru Gobind Singh Indraprastha University, New Delhi, pursuing 
 - 💬 Volunteer for the education of underrepresented and underpreviliged, because **Education is very powerful.**
 - 😄 Talk to me about : Artificial Intelligence | Data Science | Machine Learning | Data Analytics 
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+---
+**SKILLS** 
+
+• **Programming**: C, C++, Python, R, SQL, OOPs, Data Structure and Algorithm.
+
+• **Data Science**: Data Analysis, Supervised Learning, Unsupervised Learning, Neural Networks and Deep Learning, Data 
+Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, **Mathematics** (Probability, Applied Statistics, 
+Linear Algebra).
+
+• **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Snscrape. 
+
+• **Visualization Tools**: Tableau, Power BI
+
+• **Web Development**: HTML, CSS. 
+
+• **Tools**: Git, Google Colab, Excel, MS PowerPoint, POSTMAN. 
